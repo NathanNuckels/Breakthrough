@@ -1,4 +1,4 @@
-# LIGHTSPEED Breakthrough
+# Breaking the System
 
 I beleve my school district's filter is LIGHTSPEED so I tried breaking it and I figured out how to get an unblocked browser!
 
