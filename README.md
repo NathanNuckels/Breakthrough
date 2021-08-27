@@ -11,4 +11,4 @@ Have fun doing whatever!
 
 But at the time of writeing, this leads to a 404 page so for now Ill just give you google. [Enjoy!](https://google.com)
 
-Test: [trashmail is blocked](trash-mail.com/en/).
+Test: [trashmail is blocked](https://trash-mail.com/en/).
